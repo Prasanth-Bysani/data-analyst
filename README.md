@@ -1,11 +1,12 @@
 # Hi, I'm Prasanth 👋
 
-🎯Data Analyst | Python | SQL | Power BI
+🎯Aspring Data Engineer | Python | SQL | Power BI | Data Pipelines
 
 ## 🚀 About Me
 
 * Passionate about turning data into insights
 * Skilled in SQL, Python, Power BI, Tableau
+* Currently building scalable data pipelines and working with large datasets
 * Currently preparing for Data Analyst / BI roles
 
 ## 🛠️ Tech Stack
