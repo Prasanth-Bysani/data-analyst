@@ -12,9 +12,9 @@
 ## 🛠️ Tech Stack
 
 * Python (Pandas, NumPy, Matplotlib, Seaborn)
-* SQL (PostgreSQL)
-* Power BI / Tableau
-* Excel (Advanced)
+* SQL (MySQL)
+* Data Visualization (Power BI / Tableau)
+* Git & Git HUB
 
 ## 📊 Featured Projects
 
